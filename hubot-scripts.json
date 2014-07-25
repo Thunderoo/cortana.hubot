@@ -1,1 +1,1 @@
-["redis-brain.coffee", "shipit.coffee"]
+["redis-brain.coffee", "shipit.coffee", "chess.coffee", "jenkins.coffee", "jira-issues.coffee", "haters.coffee", "hello.coffee", "list-jira-bugs.coffee", "location-decision-maker.coffee", "dice.coffee", "darksky.coffee"]
